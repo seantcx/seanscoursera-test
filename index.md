@@ -11,8 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# To Learn
+  Programming Languages - Java Script, Hypertext PHP, Python
+  Markup Languages - HTML/CSS
+  Data Base Languages - SQL
+## Setting Up Enviroment
+  DL/Install - Github, chrome, Sublime text 3, Git, Browser Sync, node js. 
 ### Header 3
 
 - Bulleted
